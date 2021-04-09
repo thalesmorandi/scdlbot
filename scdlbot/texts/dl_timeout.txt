@@ -1,0 +1,1 @@
+*Desculpe*, seu download estava demorando muito (mais do que {} minutos), então tive de para-lo. Você pode baixar por sí proprio com os links adquiridos pelo comando `/link <links>` command.

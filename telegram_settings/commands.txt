@@ -1,0 +1,4 @@
+dl - + <links> required! receba na conversa
+link - + <links> required! receba um link direto
+settings - altere o modo padrão
+help - exiba a mensagem de ajuda
