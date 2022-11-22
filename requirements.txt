@@ -27,7 +27,7 @@ mutagen==1.45.1; python_version >= "3.5" and python_version < "4"
 patool==1.12
 plumbum==1.7.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_version > "3.4")
 prometheus-client==0.9.0
-prompt-toolkit==3.0.3; python_version >= "3.6"
+prompt-toolkit==3.0.33; python_version >= "3.6"
 pycparser==2.20; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 pypiwin32==223; platform_system == "Windows" and platform_python_implementation != "PyPy" and (python_version >= "2.7" and python_full_version < "3.0.0" or python_version > "3.4")
 python-telegram-bot==12.8
